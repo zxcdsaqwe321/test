@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Nanum Myeongjo';
+    font-style: normal;
+    font-weight: 400;
+    src: url(/inc/fonts/nanum/NanumMyeongjo-Regular.eot);
+    src: url(/inc/fonts/nanum/NanumMyeongjo-Regular.eot?#iefix) format('embedded-opentype'), url(/inc/fonts/nanum/NanumMyeongjo-Regular.woff) format('woff'), url(/inc/fonts/nanum/NanumMyeongjo-Regular.ttf) format('truetype')
+}
+
+@font-face {
+    font-family: 'Nanum Myeongjo';
+    font-style: normal;
+    font-weight: 700;
+    src: url(/inc/fonts/nanum/NanumMyeongjo-Bold.eot);
+    src: url(/inc/fonts/nanum/NanumMyeongjo-Bold.eot?#iefix) format('embedded-opentype'), url(/inc/fonts/nanum/NanumMyeongjo-Bold.woff) format('woff'), url(/inc/fonts/nanum/NanumMyeongjo-Bold.ttf) format('truetype')
+}
+
+@font-face {
+    font-family: 'Nanum Myeongjo';
+    font-style: normal;
+    font-weight: 800;
+    src: url(/inc/fonts/nanum/NanumMyeongjo-ExtraBold.eot);
+    src: url(/inc/fonts/nanum/NanumMyeongjo-ExtraBold.eot?#iefix) format('embedded-opentype'), url(/inc/fonts/nanum/NanumMyeongjo-ExtraBold.woff) format('woff'), url(/inc/fonts/nanum/NanumMyeongjo-ExtraBold.ttf) format('truetype')
+}

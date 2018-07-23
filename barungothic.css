@@ -1,0 +1,28 @@
+
+@font-face {
+    font-family: 'Nanum Barun Gothic';
+    font-style:normal;
+    font-weight: 400;
+    src: url('/inc/fonts/nanum/NanumBarunGothic.eot');
+    src: url('/inc/fonts/nanum/NanumBarunGothic.eot?#iefix') format('embedded-opentype'),
+         url('/inc/fonts/nanum/NanumBarunGothic.woff') format('woff'),
+         url('/inc/fonts/nanum/NanumBarunGothic.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Nanum Barun Gothic';
+    font-style:normal;
+    font-weight: 700;
+    src: url('/inc/fonts/nanum/NanumBarunGothic-Bold.eot');
+    src: url('/inc/fonts/nanum/NanumBarunGothic-Bold.eot?#iefix') format('embedded-opentype'),
+         url('/inc/fonts/nanum/NanumBarunGothic-Bold.woff') format('woff'),
+         url('/inc/fonts/nanum/NanumBarunGothic-Bold.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Nanum Barun Gothic';
+    font-style:normal;
+    font-weight: 200;
+    src: url('/inc/fonts/nanum/NanumBarunGothic-UltraLight.eot');
+    src: url('/inc/fonts/nanum/NanumBarunGothic-UltraLight.eot?#iefix') format('embedded-opentype'),
+         url('/inc/fonts/nanum/NanumBarunGothic-UltraLight.woff') format('woff'),
+         url('/inc/fonts/nanum/NanumBarunGothic-UltraLight.ttf') format('truetype');
+}
